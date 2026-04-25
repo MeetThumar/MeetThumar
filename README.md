@@ -19,36 +19,6 @@ Welcome to my GitHub profile! I'm currently navigating the exciting world of B.T
 * Data Structures & Algorithms (because logic puzzles are fun, right?)
 * Artificial Intelligence & Machine Learning (teaching computers to think, or at least pretend to)
 
-## 🚀 Projects
-
-* **Discord bot (Thrivebot):** Multifunctional Discord bot for server engagement and management.
-    * Skills: JavaScript, Node.js, MySQL
-    * [Website](https://thrivebot.in)
-* **Portfolio Website:** Modern portfolio with dark mode and interactive elements.
-    * Skills: React, TypeScript, Tailwind CSS
-    * [Live](https://portfolio.thrivebot.in/)
-* **Custom Chrome Extension: Your Name (Anime Movie):** Feature-rich extension with mute/unmute, video restart, and UI toggle.
-    * Skills: HTML, JavaScript
-    * [GitHub](https://github.com/MeetThumar/yourname/releases)
-* **Weather Checking Website:** Responsive weather app using React.
-    * Skills: React, TypeScript, Tailwind CSS
-    * [GitHub](https://github.com/MeetThumar/weather-react)
-* **Simple Calculator:** Basic calculator app using Next.js with dark theme.
-    * Skills: Next.js, TypeScript, Tailwind CSS
-    * [GitHub](https://github.com/MeetThumar/calculator-nextjs)
-* **AI Relationship Adviser:** Personalized relationship advice using Google's Gemini AI.
-    * Skills: React, TypeScript, Tailwind CSS
-    * [Live](https://relationship-advisor.thrivebot.in/) | [GitHub](https://github.com/MeetThumar/relationship-advisor-react)
-* **Unit Converter:** Versatile unit converter with multiple categories.
-    * Skills: React, TypeScript, Tailwind CSS
-    * [Live](https://unit-convertor.thrivebot.in/) | [GitHub](https://github.com/MeetThumar/unit-converter)
-* **AI Quiz Generator:** AI-powered quiz generator using Gemini-Pro and Cloudflare Workers.
-    * Skills: React, TypeScript, Tailwind CSS, Cloudflare Workers
-    * [Live](https://ai-quiz.thrivebot.in/) | [GitHub](https://github.com/MeetThumar/ai-quiz-generator/)
-* **AI Email Template Builder:** Generates professional email templates using AI.
-    * Skills: React, TypeScript, Tailwind CSS, Cloudflare Workers
-    * [Live](https://ai-email-builder.thrivebot.in/)
-
 ## 🤝 Let's Connect
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thumarmeet/) or check out my [portfolio](https://portfolio.thrivebot.in/).
