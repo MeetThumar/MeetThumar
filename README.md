@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm currently navigating the exciting world of B.T
 
 ## 🤝 Let's Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thumarmeet/) or check out my [portfolio](https://portfolio.thrivebot.in/).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thumarmeet/).
 
 ## 📊 GitHub Stats
 
