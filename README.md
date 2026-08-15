@@ -1,7 +1,6 @@
 # Hi, I'm Meet Thumar 👋  // Debugging life, one semicolon at a time.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thumarmeet/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio.thrivebot.in/)
 
 Welcome to my GitHub profile! I'm currently navigating the exciting world of B.Tech, with an expected exit in 2026. I'm on a quest to learn as much as possible about the tech universe, and occasionally fix bugs.
 
